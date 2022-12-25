@@ -1,5 +1,5 @@
 # 💫 About Me:
-Started with Frontend Development a few months ago.<br>Currently and always working on solidifying and expanding my frontend skills.<br>Looking into Vue and Svelte at the moment.
+Started with Frontend Development a few months ago.<br>Currently and always working on solidifying and expanding my frontend skills.<br>Looking into Vue and Svelte ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) at the moment.
 
 
 ## 🌐 Socials:
