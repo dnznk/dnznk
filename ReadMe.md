@@ -1,5 +1,5 @@
 # 💫 About Me:
-Started with Frontend Development a few months ago.<br>Currently and always working on solidifying and expanding my frontend skills.<br><br>Looking into ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) and ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) at the moment.
+Currently starting my Frontend career with my first Job.<br><br>Looking into ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) and ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) at the moment.
 
 
 ## 🌐 Socials:
