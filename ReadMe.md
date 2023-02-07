@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently starting my Frontend career with my first developer Job.
+Frontend Developer based in Berlin.
 
 
 ## 🌐 Socials:
